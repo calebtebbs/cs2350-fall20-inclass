@@ -4,4 +4,8 @@
   box-sizing: border-box;
 }
 
-/* TODO */
+canvas
+{
+    background-color: cyan;
+    margin: 10px;
+}
